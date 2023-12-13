@@ -39,6 +39,6 @@ jobs:
 
         # Optional commit user and author settings
         commit_user_name: Actions Bot
-        commit_user_email: lmonsalve22@gmail.com
-        commit_author: DataIntelligence BOT <lmonsalve22@gmail.com>
+        commit_user_email: eduardokm4@gmail.com
+        commit_author: SINIA BOT <eduardokm4@gmail.com>
         push_options: '--force'
